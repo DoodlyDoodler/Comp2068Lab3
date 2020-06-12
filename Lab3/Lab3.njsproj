@@ -36,9 +36,21 @@
     <Content Include="package.json" />
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
+    <Content Include="views\Dad.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\Mom.pug">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="views\index.pug" />
-    <Content Include="views\layout.pug" />
+    <Content Include="views\Header.pug" />
     <Content Include="views\error.pug" />
+    <Content Include="views\Brother.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\Simarpreet.pug">
+      <SubType>Code</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
